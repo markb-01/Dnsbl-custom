@@ -70,3 +70,12 @@ mgeko.cc
 mangahub.io
 niadd.com
 kodansha.us
+fandom.com
+hunterxhunter.fandom.com
+slamdunk.fandom.com
+kimetsu-no-yaiba.fandom.com
+attackontitan.fandom.com
+onepiece.fandom.com
+naruto.fandom.com
+blackclover.fandom.com
+nanatsu-no-taizai.fandom.com
